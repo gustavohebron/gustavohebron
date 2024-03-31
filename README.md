@@ -6,7 +6,6 @@
 <div  align="center" >
   - 🔭 Atualmente estou trabalhando em uma pequena startup...
   <br>
-- 🌱 Atualmente estou estudando react native, typescript, css...
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
